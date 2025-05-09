@@ -3,7 +3,7 @@ import org.junit.jupiter.api.Test;
 
 import java.util.Arrays;
 
-import static common.TreeBuilder.buildTree;
+import static common.TreeNodeBuilder.buildTree;
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
 class BinaryTreeRightSideViewTest {
