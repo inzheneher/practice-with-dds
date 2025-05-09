@@ -3,7 +3,7 @@ package common;
 import java.util.ArrayDeque;
 import java.util.Deque;
 
-public class TreeBuilder {
+public class TreeNodeBuilder {
     /**
      * Builds a binary tree from an array of values, where null represents a missing node.
      * Example: [1, 2, 3, null, 4] builds the tree:
